@@ -1,0 +1,15 @@
+#import <DataDetectorsNaturalLanguage/IPDDFeatureExtractor.h>
+#import <DataDetectorsNaturalLanguage/IPDDGeoFeatureExtractor.h>
+#import <DataDetectorsNaturalLanguage/IPFeatureExtractor.h>
+#import <DataDetectorsNaturalLanguage/IPMessageThread.h>
+#import <DataDetectorsNaturalLanguage/IPFeatureManager.h>
+#import <DataDetectorsNaturalLanguage/IPTenseDetector.h>
+#import <DataDetectorsNaturalLanguage/IPFeatureData.h>
+#import <DataDetectorsNaturalLanguage/IPPerson.h>
+#import <DataDetectorsNaturalLanguage/IPSentenceFeatureExtractor.h>
+#import <DataDetectorsNaturalLanguage/IPQuoteParser.h>
+#import <DataDetectorsNaturalLanguage/IPFeature.h>
+#import <DataDetectorsNaturalLanguage/IPMessageUnit.h>
+#import <DataDetectorsNaturalLanguage/IPMessage.h>
+#import <DataDetectorsNaturalLanguage/IPFeatureSentence.h>
+#import <DataDetectorsNaturalLanguage/IPLTFeatureExtractor.h>

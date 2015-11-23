@@ -1,0 +1,10 @@
+#import <CoreIndoor/IndoorProtocolProxy.h>
+#import <CoreIndoor/CLIndoorMaintenance.h>
+#import <CoreIndoor/CLIndoorXPCProvider.h>
+#import <CoreIndoor/ServiceState.h>
+#import <CoreIndoor/CLIndoorPositionProvider.h>
+#import <CoreIndoor/CLGpsPosition.h>
+#import <CoreIndoor/CLPrefetchFloorRequest.h>
+#import <CoreIndoor/CLIndoorLocation.h>
+#import <CoreIndoor/CLIndoorTileEvictionPolicy.h>
+#import <CoreIndoor/CLGpsSignalQuality.h>

@@ -1,0 +1,1 @@
+#import <SpotlightReceiver/SpotlightReceiverDelegate.h>

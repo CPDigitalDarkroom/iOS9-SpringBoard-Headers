@@ -1,0 +1,12 @@
+#import <BluetoothSettings/BTTableCell.h>
+#import <BluetoothSettings/DevicesHeaderView.h>
+#import <BluetoothSettings/BTSDevicesController.h>
+#import <BluetoothSettings/BTSPairController.h>
+#import <BluetoothSettings/BTSPairSetup.h>
+#import <BluetoothSettings/BTAlert.h>
+#import <BluetoothSettings/BTSDeviceConfigController.h>
+#import <BluetoothSettings/BTSSPPairingRequest.h>
+#import <BluetoothSettings/BTSDebugController.h>
+#import <BluetoothSettings/BTSDevice.h>
+#import <BluetoothSettings/BTSDeviceClassic.h>
+#import <BluetoothSettings/BTSDeviceLE.h>

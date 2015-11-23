@@ -1,0 +1,16 @@
+_DuetErrorStrings
+_duet_error
+_duet_fatal
+_duet_log
+___stack_chk_fail
+___stack_chk_guard
+___stderrp
+_exit
+_fprintf
+_fputc
+_fwrite
+_localtime
+_strftime
+_time
+_vfprintf
+dyld_stub_binder

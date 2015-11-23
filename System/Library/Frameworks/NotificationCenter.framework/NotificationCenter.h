@@ -1,0 +1,16 @@
+#import <NotificationCenter/NCSnippetDataSourceManager.h>
+#import <NotificationCenter/NCSnippetDatum.h>
+#import <NotificationCenter/NCWidgetDatum.h>
+#import <NotificationCenter/NCWidgetController.h>
+#import <NotificationCenter/_NCWidgetControllerRequestLimiter.h>
+#import <NotificationCenter/_NCConcreteDataSource.h>
+#import <NotificationCenter/NCWidgetDataSourceManager.h>
+#import <NotificationCenter/_NCWidgetExtensionContext.h>
+#import <NotificationCenter/_NCWidgetViewController.h>
+#import <NotificationCenter/_NCWidgetViewControllerView.h>
+#import <NotificationCenter/NCWidgetDataSource.h>
+#import <NotificationCenter/NCDataSourceManager.h>
+#import <NotificationCenter/NCSnippetDataSource.h>
+#import <NotificationCenter/NCWidgetVisibilityManager.h>
+#import <NotificationCenter/_NCWidgetViewControllerAnimator.h>
+#import <NotificationCenter/_NCWidgetViewControllerTransitionContext.h>

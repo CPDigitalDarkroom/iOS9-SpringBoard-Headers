@@ -1,0 +1,12 @@
+#import <EmbeddedAcousticRecognition/EARSdapiHelper.h>
+#import <EmbeddedAcousticRecognition/_EARLMLanguageModel.h>
+#import <EmbeddedAcousticRecognition/_EARFormatter.h>
+#import <EmbeddedAcousticRecognition/_EARSpeechRecognitionToken.h>
+#import <EmbeddedAcousticRecognition/_EARSpeechRecognitionResult.h>
+#import <EmbeddedAcousticRecognition/_EARSpeechRecognizer.h>
+#import <EmbeddedAcousticRecognition/_EARSpeechModelInfo.h>
+#import <EmbeddedAcousticRecognition/_EARLanguageModel.h>
+#import <EmbeddedAcousticRecognition/_EARSpeechExperiment.h>
+#import <EmbeddedAcousticRecognition/_EARSpeechRecognitionAudioBuffer.h>
+#import <EmbeddedAcousticRecognition/_EARWordPart.h>
+#import <EmbeddedAcousticRecognition/_EARUserProfile.h>

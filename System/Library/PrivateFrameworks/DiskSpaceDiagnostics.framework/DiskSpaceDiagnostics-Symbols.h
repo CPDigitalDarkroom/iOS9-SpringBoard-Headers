@@ -1,0 +1,3 @@
+_DiskSpaceDiagnosticsVersionNumber
+_DiskSpaceDiagnosticsVersionString
+dyld_stub_binder

@@ -1,0 +1,14 @@
+_ETLEFSDUmpCopyCrashLocationDetails
+_ETLEFSDumpCopyCrashHeaderDetails
+_ETLEFSDumpCopySoftwareVersion
+_ETLEFSDumpInfoFree
+_ETLEFSDumpInterpret
+_TelephonyUtilStrlcpy
+___stack_chk_fail
+___stack_chk_guard
+_bzero
+_free
+_malloc
+_memset
+_strdup
+dyld_stub_binder

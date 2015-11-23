@@ -1,0 +1,13 @@
+#import <Speech/_SFSearchResult.h>
+#import <Speech/SFSpeechRecognitionTask.h>
+#import <Speech/_SFSpeechRecognitionBlockTask.h>
+#import <Speech/_SFSpeechRecognitionDelegateTask.h>
+#import <Speech/SFSpeechRecognitionResult.h>
+#import <Speech/SFSpeechRecognizer.h>
+#import <Speech/SFTranscriptionSegment.h>
+#import <Speech/_SFSearchRequest.h>
+#import <Speech/SFSpeechRecognitionRequest.h>
+#import <Speech/SFSpeechRecordingRecognitionRequest.h>
+#import <Speech/SFSpeechURLRecognitionRequest.h>
+#import <Speech/SFSpeechAudioBufferRecognitionRequest.h>
+#import <Speech/SFTranscription.h>

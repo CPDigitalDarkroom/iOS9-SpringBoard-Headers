@@ -1,0 +1,11 @@
+#import <libextension.dylib/NSItemProvider.h>
+#import <libextension.dylib/_NSItemProviderTypeCoercion.h>
+#import <libextension.dylib/_NSExtensionContextTransactionHolder.h>
+#import <libextension.dylib/_NSExtensionContextVendor.h>
+#import <libextension.dylib/NSExtensionContext.h>
+#import <libextension.dylib/NSExtensionItem.h>
+#import <libextension.dylib/NSExtension.h>
+#import <libextension.dylib/UIKit_PKSubsystem.h>
+#import <libextension.dylib/_NSItemProviderExtensionVendorLoadOperator.h>
+#import <libextension.dylib/_NSItemProviderCopyingLoadOperator.h>
+#import <libextension.dylib/_NSItemProviderSandboxedResource.h>

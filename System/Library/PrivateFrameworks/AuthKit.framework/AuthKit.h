@@ -1,0 +1,17 @@
+#import <AuthKit/AKAppleIDAuthenticationController.h>
+#import <AuthKit/_AKAppleIDAuthenticationContextManager.h>
+#import <AuthKit/AKURLDataTask.h>
+#import <AuthKit/AKURLSession.h>
+#import <AuthKit/AKAppleIDAuthenticationClientInterface.h>
+#import <AuthKit/AKConfiguration.h>
+#import <AuthKit/AKCertificatePinning.h>
+#import <AuthKit/AKAppleIDServerResourceLoadDelegate.h>
+#import <AuthKit/AKURLBag.h>
+#import <AuthKit/AKAppleIDSession.h>
+#import <AuthKit/AKAnisetteData.h>
+#import <AuthKit/AKAbsintheSigner.h>
+#import <AuthKit/AKAnisetteProvisioningDaemonInterface.h>
+#import <AuthKit/AKDevice.h>
+#import <AuthKit/AKAnisetteProvisioningController.h>
+#import <AuthKit/AKAppleIDAuthenticationContext.h>
+#import <AuthKit/AKAppleIDAuthenticationDaemonInterface.h>

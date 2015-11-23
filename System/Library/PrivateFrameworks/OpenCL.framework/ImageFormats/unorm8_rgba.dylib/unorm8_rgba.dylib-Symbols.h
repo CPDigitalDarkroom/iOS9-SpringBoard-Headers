@@ -1,0 +1,5 @@
+___FunctionTable
+___FunctionTableTransposed
+_bzero
+_memset_pattern4
+dyld_stub_binder

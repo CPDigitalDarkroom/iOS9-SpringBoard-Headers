@@ -1,0 +1,14 @@
+#import <MediaLibrary/MLLibrary.h>
+#import <MediaLibrary/MLError.h>
+#import <MediaLibrary/MLQuery.h>
+#import <MediaLibrary/MLChangeRequest.h>
+#import <MediaLibrary/MLUpdateEntityChangeRequest.h>
+#import <MediaLibrary/MLDeleteEntityChangeRequest.h>
+#import <MediaLibrary/MLLibraryView.h>
+#import <MediaLibrary/MLArtist.h>
+#import <MediaLibrary/MLQueryResult.h>
+#import <MediaLibrary/MLComposer.h>
+#import <MediaLibrary/MLEntity.h>
+#import <MediaLibrary/MLAlbum.h>
+#import <MediaLibrary/MLGenre.h>
+#import <MediaLibrary/MLItem.h>

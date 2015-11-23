@@ -1,0 +1,12 @@
+#import <ReplayKit/RPStoreInfo.h>
+#import <ReplayKit/RPStoreManager.h>
+#import <ReplayKit/RPScreenRecorder.h>
+#import <ReplayKit/RPVideoEditorViewController.h>
+#import <ReplayKit/RPVideoEditorHostViewController.h>
+#import <ReplayKit/RPVideoEditorExtensionHostContext.h>
+#import <ReplayKit/RPDaemonProxy.h>
+#import <ReplayKit/RPHighFidelityVideoOverlayButton.h>
+#import <ReplayKit/RPFlatVideoOverlayButton.h>
+#import <ReplayKit/RPYouTubeActivity.h>
+#import <ReplayKit/RPYouTubeActivityProgressOverlay.h>
+#import <ReplayKit/RPPreviewViewController.h>

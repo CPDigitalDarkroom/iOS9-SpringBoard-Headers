@@ -1,0 +1,7 @@
+__ZN3awd13sGetQueryTypeEj
+__ZN3awd14sGetMetricTypeEj
+__ZN3awd19getNameForComponentEj
+__ZN3awd19sGetGenericMetricIdEv
+__ZN3awd22getMetricsForComponentEj
+__ZN3awd23getComponentForMetricIdEj
+dyld_stub_binder

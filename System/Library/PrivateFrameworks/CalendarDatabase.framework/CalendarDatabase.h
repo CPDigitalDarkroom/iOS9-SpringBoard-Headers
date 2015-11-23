@@ -1,0 +1,11 @@
+#import <CalendarDatabase/CDBRecurrenceDayOfWeek.h>
+#import <CalendarDatabase/CalSearch.h>
+#import <CalendarDatabase/CDBSourceConstraints.h>
+#import <CalendarDatabase/CDBPreferences.h>
+#import <CalendarDatabase/CalAlarmMetadata.h>
+#import <CalendarDatabase/CDBRecurrenceGenerator.h>
+#import <CalendarDatabase/CalItemMetadata.h>
+#import <CalendarDatabase/EKObjectID.h>
+#import <CalendarDatabase/EKCalendarFilter.h>
+#import <CalendarDatabase/EKPersistentChangeStoreInfo.h>
+#import <CalendarDatabase/EKPersistentChangeStoreRowInfo.h>

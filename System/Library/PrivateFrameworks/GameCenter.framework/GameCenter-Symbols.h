@@ -1,0 +1,4 @@
+_GKGameCenterUmbrellaFrameworkStub
+_kGameCenterGameCenterVersionNumber
+_kGameCenterGameCenterVersionString
+dyld_stub_binder

@@ -1,0 +1,10 @@
+_entr_act_associate
+_entr_act_begin
+_entr_act_end
+_entr_act_modify
+_entr_act_set
+_entr_act_setd
+_entr_event
+_entr_shouldtrace
+_kdebug_trace
+dyld_stub_binder

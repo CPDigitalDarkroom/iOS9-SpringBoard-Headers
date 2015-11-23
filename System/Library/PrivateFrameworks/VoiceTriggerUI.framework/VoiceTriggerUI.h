@@ -1,0 +1,16 @@
+#import <VoiceTriggerUI/AudioCircularBuffer.h>
+#import <VoiceTriggerUI/VTUIEnrollTrainingViewController.h>
+#import <VoiceTriggerUI/VTUIEnrollmentSuccessView.h>
+#import <VoiceTriggerUI/VTUITickMarkView.h>
+#import <VoiceTriggerUI/VTUIEnrollmentStateView.h>
+#import <VoiceTriggerUI/VTUIEnrollmentSetupIntroView.h>
+#import <VoiceTriggerUI/VTUIArtworksManager.h>
+#import <VoiceTriggerUI/VTUITrainingManager.h>
+#import <VoiceTriggerUI/VTUISigmoid.h>
+#import <VoiceTriggerUI/VTUIPagedLabel.h>
+#import <VoiceTriggerUI/VTUIStringsHelper.h>
+#import <VoiceTriggerUI/AudioFileWriterInt.h>
+#import <VoiceTriggerUI/AudioFileWriter.h>
+#import <VoiceTriggerUI/VTUIASRGrammars.h>
+#import <VoiceTriggerUI/VTUIStyle.h>
+#import <VoiceTriggerUI/VTUIEnrollmentEditDistanceFinder.h>

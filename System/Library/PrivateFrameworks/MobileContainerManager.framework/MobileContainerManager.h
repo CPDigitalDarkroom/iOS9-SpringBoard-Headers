@@ -1,0 +1,13 @@
+#import <MobileContainerManager/MCMTempDirDataContainer.h>
+#import <MobileContainerManager/MCMInternalDaemonDataContainer.h>
+#import <MobileContainerManager/MCMPluginKitPluginDataContainer.h>
+#import <MobileContainerManager/MCMVPNPluginContainer.h>
+#import <MobileContainerManager/MCMVPNPluginDataContainer.h>
+#import <MobileContainerManager/MCMSharedDataContainer.h>
+#import <MobileContainerManager/MCMPluginKitPluginContainer.h>
+#import <MobileContainerManager/MCMFrameworkContainer.h>
+#import <MobileContainerManager/MCMAppContainer.h>
+#import <MobileContainerManager/MCMAppDataContainer.h>
+#import <MobileContainerManager/MCMXPCServiceDataContainer.h>
+#import <MobileContainerManager/MCMContainerManager.h>
+#import <MobileContainerManager/MCMContainer.h>

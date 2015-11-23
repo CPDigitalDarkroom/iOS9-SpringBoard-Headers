@@ -1,0 +1,13 @@
+#import <VisualAlert/AXCameraTorchManagerBackgroundAdapter.h>
+#import <VisualAlert/__AXVisualAlertSBLockScreenNotificationListController_super.h>
+#import <VisualAlert/AXVisualAlertSBLockScreenNotificationListController.h>
+#import <VisualAlert/__AXVisualAlertSBBulletinSoundController_super.h>
+#import <VisualAlert/AXVisualAlertSBBulletinSoundController.h>
+#import <VisualAlert/__AXVisualAlertSBCCFlashlightSetting_super.h>
+#import <VisualAlert/AXVisualAlertSBCCFlashlightSetting.h>
+#import <VisualAlert/AXVisualAlertManager.h>
+#import <VisualAlert/AXNotificationHandler.h>
+#import <VisualAlert/AXLocalNotificationHandler.h>
+#import <VisualAlert/AXAutoForwardingLocalNotificationHandler.h>
+#import <VisualAlert/AXDistributedNotificationHandler.h>
+#import <VisualAlert/AXTelephonyNotificationHandler.h>
